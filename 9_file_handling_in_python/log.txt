@@ -1,0 +1,4 @@
+Hello
+This is a sample file
+To print each line
+this is a test line to check append method

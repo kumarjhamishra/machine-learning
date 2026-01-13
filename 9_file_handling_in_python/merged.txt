@@ -1,0 +1,30 @@
+mr.hippo mr.hippo
+kirti mr.hippo mr.hippo
+Hello
+This is a sample file
+To print each line
+
+Hello world
+This is a new file
+
+Hello
+This is a sample file
+To print each line
+this is a test line to check append method
+
+Hey there
+This is sample file
+to test the writing functionality
+
+Hey boii
+It's your boi Satyam Kumar
+Badmasi chalegi 
+24 hour 300 hourse power
+Hello
+This is a sample file
+To print each line
+
+Hello
+This is a sample file
+To print each line
+
