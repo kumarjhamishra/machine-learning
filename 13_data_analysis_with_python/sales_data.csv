@@ -1,0 +1,31 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method
+TXN1001,2026-01-02,Electronics,Wireless Mouse,5,750,3750,North,Credit Card
+TXN1002,2026-01-03,Home & Kitchen,Electric Kettle,3,1800,5400,South,UPI
+TXN1003,2026-01-04,Clothing,T-Shirt,8,500,4000,East,Cash
+TXN1004,2026-01-05,Books,Python Programming Guide,2,950,1900,West,Debit Card
+TXN1005,2026-01-06,Electronics,Bluetooth Speaker,4,2200,8800,North,Net Banking
+TXN1006,2026-01-07,Grocery,Basmati Rice 5kg,6,650,3900,South,UPI
+TXN1007,2026-01-08,Beauty,Face Wash,10,250,2500,East,Credit Card
+TXN1008,2026-01-09,Sports,Yoga Mat,3,1200,3600,West,Cash
+TXN1009,2026-01-10,Electronics,USB-C Charger,7,900,6300,North,Debit Card
+TXN1010,2026-01-11,Furniture,Office Chair,2,6500,13000,South,Net Banking
+TXN1011,2026-01-12,Clothing,Jeans,5,1800,9000,East,UPI
+TXN1012,2026-01-13,Books,Data Science Handbook,4,1200,4800,West,Credit Card
+TXN1013,2026-01-14,Grocery,Cooking Oil 2L,8,350,2800,North,Cash
+TXN1014,2026-01-15,Electronics,Smart Watch,2,5500,11000,South,Credit Card
+TXN1015,2026-01-16,Home & Kitchen,Microwave Oven,1,9500,9500,East,Debit Card
+TXN1016,2026-01-17,Sports,Cricket Bat,3,2800,8400,West,UPI
+TXN1017,2026-01-18,Beauty,Shampoo,6,450,2700,North,Net Banking
+TXN1018,2026-01-19,Electronics,Keyboard,4,1200,4800,South,Credit Card
+TXN1019,2026-01-20,Furniture,Study Table,2,4800,9600,East,Cash
+TXN1020,2026-01-21,Clothing,Hoodie,3,2200,6600,West,Debit Card
+TXN1021,2026-01-22,Grocery,Coffee Powder,5,420,2100,North,UPI
+TXN1022,2026-01-23,Books,Machine Learning Basics,3,1500,4500,South,Credit Card
+TXN1023,2026-01-24,Electronics,Power Bank,6,1400,8400,East,Net Banking
+TXN1024,2026-01-25,Home & Kitchen,Air Fryer,2,7200,14400,West,Debit Card
+TXN1025,2026-01-26,Beauty,Perfume,4,1800,7200,North,Cash
+TXN1026,2026-01-27,Sports,Dumbbell Set,2,3500,7000,South,UPI
+TXN1027,2026-01-28,Electronics,Noise Cancelling Headphones,2,8500,17000,East,Credit Card
+TXN1028,2026-01-29,Clothing,Sneakers,3,3200,9600,West,Debit Card
+TXN1029,2026-01-30,Grocery,Green Tea Pack,7,280,1960,North,UPI
+TXN1030,2026-01-31,Electronics,External SSD 1TB,2,6500,13000,South,Net Banking
