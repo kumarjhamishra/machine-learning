@@ -1,0 +1,5 @@
+DEBUG - Debug message
+INFO - Info message
+WARNING - Warning message
+ERROR - Error message
+CRITICAL - Critical message

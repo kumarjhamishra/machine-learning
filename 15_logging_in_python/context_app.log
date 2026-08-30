@@ -1,0 +1,5 @@
+2026-08-29 12:50:53,106 - contextual_logger - DEBUG - This is a debug message - test_func - 21
+2026-08-29 12:50:53,106 - contextual_logger - INFO - This is an info message - test_func - 22
+2026-08-29 12:50:53,106 - contextual_logger - WARNING - This is a warning message - test_func - 23
+2026-08-29 12:50:53,106 - contextual_logger - ERROR - This is an error message - test_func - 24
+2026-08-29 12:50:53,106 - contextual_logger - CRITICAL - This is a critical message - test_func - 25

@@ -1,0 +1,10 @@
+2026-08-29 13:23:34,925 - updated_contextual_logger - DEBUG - This is a debug message - test_func - 20 - UserID: 123 - SessionID: 456
+2026-08-29 13:23:34,925 - updated_contextual_logger - INFO - This is an info message - test_func - 21 - UserID: 123 - SessionID: 456
+2026-08-29 13:23:34,925 - updated_contextual_logger - WARNING - This is a warning message - test_func - 22 - UserID: 123 - SessionID: 456
+2026-08-29 13:23:34,925 - updated_contextual_logger - ERROR - This is an error message - test_func - 23 - UserID: 123 - SessionID: 456
+2026-08-29 13:23:34,925 - updated_contextual_logger - CRITICAL - This is a critical message - test_func - 24 - UserID: 123 - SessionID: 456
+2026-08-29 13:31:43,171 - updated_contextual_logger - DEBUG - This is a debug message - test_func - 21 - UserID: 123 - SessionID: 456
+2026-08-29 13:31:43,172 - updated_contextual_logger - INFO - This is an info message - test_func - 22 - UserID: 123 - SessionID: 456
+2026-08-29 13:31:43,172 - updated_contextual_logger - WARNING - This is a warning message - test_func - 23 - UserID: 123 - SessionID: 456
+2026-08-29 13:31:43,172 - updated_contextual_logger - ERROR - This is an error message - test_func - 24 - UserID: 123 - SessionID: 456
+2026-08-29 13:31:43,172 - updated_contextual_logger - CRITICAL - This is a critical message - test_func - 25 - UserID: 123 - SessionID: 456

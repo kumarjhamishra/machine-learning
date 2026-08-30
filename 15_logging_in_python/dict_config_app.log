@@ -1,0 +1,15 @@
+2026-08-29 15:21:48,255 - root - DEBUG - This is a debug message - logging_with_dictionary - 39
+2026-08-29 15:21:48,865 - root - INFO - This is an info message - logging_with_dictionary - 40
+2026-08-29 15:21:48,867 - root - WARNING - This is a warning message - logging_with_dictionary - 41
+2026-08-29 15:21:48,869 - root - ERROR - This is an error message - logging_with_dictionary - 42
+2026-08-29 15:21:48,870 - root - CRITICAL - This is a critical message - logging_with_dictionary - 43
+2026-08-30 10:52:36,994 - root - DEBUG - This is a debug message - logging_with_dictionary - 40
+2026-08-30 10:52:37,411 - root - INFO - This is an info message - logging_with_dictionary - 41
+2026-08-30 10:52:37,414 - root - WARNING - This is a warning message - logging_with_dictionary - 42
+2026-08-30 10:52:37,416 - root - ERROR - This is an error message - logging_with_dictionary - 43
+2026-08-30 10:52:37,418 - root - CRITICAL - This is a critical message - logging_with_dictionary - 44
+2026-08-30 11:11:03,763 - root - DEBUG - This is a debug message - logging_with_dictionary - 40
+2026-08-30 11:11:03,766 - root - INFO - This is an info message - logging_with_dictionary - 41
+2026-08-30 11:11:03,769 - root - WARNING - This is a warning message - logging_with_dictionary - 42
+2026-08-30 11:11:03,770 - root - ERROR - This is an error message - logging_with_dictionary - 43
+2026-08-30 11:11:03,771 - root - CRITICAL - This is a critical message - logging_with_dictionary - 44
