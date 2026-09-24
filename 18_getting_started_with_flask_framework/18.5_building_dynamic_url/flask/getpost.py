@@ -30,6 +30,15 @@ def form():
     # form.html page in case of get method
     return render_template('form.html')
 
+@app.route('/submit', methods=['GET', 'POST'])
+def submit():
+    if request.method == 'POST':
+        name = request.form['name']
+        return f"Hello {name}!"
+
+    # form.html page in case of get method
+    return render_template('form.html')
+
 # entry point of .py file
 if __name__ == "__main__":
     # debug will automatically restart the server once we save any changes during development
